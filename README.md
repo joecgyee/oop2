@@ -6,4 +6,4 @@ An audio GUI app coded in C++ using JUCE framework.
 - **JUCE** (https://juce.com/download/)
 
 ## Demo
-[video](https://youtu.be/plorH0mSjhs)
+Check out the demonstration video [here](https://youtu.be/plorH0mSjhs).
